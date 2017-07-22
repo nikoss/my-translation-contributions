@@ -82,7 +82,9 @@ fake repository that lists my contributions in translations
       (Chrome Browser extension)      
       translation of the website      
 
-
+- Good Weather
+      (weather app for android)
+      complete translation of the application
 
 
 *complete, meaning more than 90% of the strings
