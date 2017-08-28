@@ -84,13 +84,13 @@ fake repository that lists my contributions in translations
 
 
 
-- Good Weather
-      (weather app for android)
-      complete translation of the application
+- Good Weather      
+      (weather app for android)      
+      complete translation of the application      
 
-- Yalp Store
-      (an android app that lets you download apps from Google Play Store)
-      complete translation of the application
+- Yalp Store      
+      (an android app that lets you download apps from Google Play Store)      
+      complete translation of the application      
 
 
 
