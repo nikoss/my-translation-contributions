@@ -5,7 +5,7 @@ fake repository that lists my contributions in translations
 
 - Audacity      
       (multichannel sound editor)      
-      ver 1.2, complete translation of the application, and the older, now, website      
+      ver 1.2, complete translation of the application, and the older, by now, website      
       ver 1.3, partial translation of the application.      
 
 - Avidemux GTK      
@@ -82,9 +82,17 @@ fake repository that lists my contributions in translations
       (Chrome Browser extension)      
       translation of the website      
 
+
+
 - Good Weather
       (weather app for android)
       complete translation of the application
+
+- Yalp Store
+      (an android app that lets you download apps from Google Play Store)
+      complete translation of the application
+
+
 
 
 *complete, meaning more than 90% of the strings
