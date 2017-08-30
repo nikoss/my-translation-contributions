@@ -76,13 +76,17 @@ fake repository that lists my contributions in translations
       (file manager)      
       complete translation of the application      
       
-      
+.
       
 - Explain_and_Send_Screenshot      
       (Chrome Browser extension)      
       translation of the website      
       
+.
       
+- FTP Server (swiftp)      
+      (an FTP server for your android device)      
+      complete translation of the application      
       
 - Good Weather      
       (weather app for android)      
