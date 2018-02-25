@@ -77,11 +77,15 @@ fake repository that lists my contributions in translations
       complete translation of the application      
       
 .
+.
+.
       
 - Explain_and_Send_Screenshot      
       (Chrome Browser extension)      
       translation of the website      
       
+.
+.
 .
       
 - FTP Server (swiftp)      
@@ -90,6 +94,18 @@ fake repository that lists my contributions in translations
       
 - Good Weather      
       (weather app for android)      
+      complete translation of the application      
+      
+- OpenNoteScanner      
+      (note and document scanner for android)      
+      complete translation of the application      
+      
+- RadioDroid      
+      (radio browser app for android)      
+      complete translation of the application      
+      
+- SeafoodBerserker      
+      (Viking-themed fish-slaughtering game for android)      
       complete translation of the application      
       
 - Yalp Store      
