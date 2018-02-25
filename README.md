@@ -108,6 +108,10 @@ fake repository that lists my contributions in translations
       (Viking-themed fish-slaughtering game for android)      
       complete translation of the application      
       
+- Transistor      
+      (radio app for android)      
+      complete translation of the application   
+      
 - Yalp Store      
       (an android app that lets you download apps from Google Play Store)      
       complete translation of the application      
