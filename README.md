@@ -88,6 +88,10 @@ fake repository that lists my contributions in translations
 .
 .
       
+- Editor      
+      (android simple text editor)      
+      complete translation of the application      
+      
 - FTP Server (swiftp)      
       (an FTP server for your android device)      
       complete translation of the application      
