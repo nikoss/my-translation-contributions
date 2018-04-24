@@ -108,6 +108,10 @@ fake repository that lists my contributions in translations
       (Viking-themed fish-slaughtering game, for android)      
       complete translation of the application      
       
+- Simple App Launcher      
+      (A simple holder for your favourite app launchers in android)      
+      complete translation of the application      
+      
 - Simple Draw      
       (A canvas you can draw on, for android)      
       complete translation of the application      
