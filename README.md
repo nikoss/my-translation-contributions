@@ -93,23 +93,27 @@ fake repository that lists my contributions in translations
       complete translation of the application      
       
 - Good Weather      
-      (weather app for android)      
+      (weather app, for android)      
       complete translation of the application      
       
 - OpenNoteScanner      
-      (note and document scanner for android)      
+      (note and document scanner, for android)      
       complete translation of the application      
       
 - RadioDroid      
-      (radio browser app for android)      
+      (radio browser app, for android)      
       complete translation of the application      
       
 - SeafoodBerserker      
-      (Viking-themed fish-slaughtering game for android)      
+      (Viking-themed fish-slaughtering game, for android)      
+      complete translation of the application      
+      
+- Simple Draw      
+      (A canvas you can draw on, for android)      
       complete translation of the application      
       
 - Transistor      
-      (radio app for android)      
+      (radio app, for android)      
       complete translation of the application   
       
 - Yalp Store      
