@@ -40,6 +40,10 @@ fake repository that lists my contributions in translations
       (image viewer and manager)      
       complete translation of the application      
       
+- IceWM      
+      (window manager)      
+      updated an old translation of the application      
+      
 - Krename      
       (advanced batch file renaming tool)      
       complete translation of the application      
