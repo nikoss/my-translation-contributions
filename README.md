@@ -96,6 +96,10 @@ fake repository that lists my contributions in translations
       (android simple text editor)      
       complete translation of the application      
       
+- Fedilab   (former Mastalab)      
+      (android client for Mastodon, Pleroma, Peertube, GNU Social, Friendica and Pixelfed)      
+      complete translation of the application, almost      
+      
 - FTP Server (swiftp)      
       (an FTP server for your android device)      
       complete translation of the application      
